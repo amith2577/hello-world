@@ -2,8 +2,5 @@ story-joe-edit-reviewed file
 
 story-joe-edit-reviewed file 
 
-
-story-joe-edit-reviewed file 
-
 story-joe-edit-reviewed file 
 
